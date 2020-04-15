@@ -1,5 +1,5 @@
 _repo: Peggy-from-Kerry_61829
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Lewis, Martin
@@ -7,6 +7,9 @@ contributor:
     deathdate: 1962
     gutenberg_agent_id: '44810'
     url: http://www.gutenberg.org/2009/agents/44810
+covers:
+- cover_type: archival
+  image_path: 61829-h/images/cover.jpg
 creator:
   author:
     agent_name: Meade, L. T.
@@ -23,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61829#Peggy-from-Kerry
 gutenberg_issued: '2020-04-14'
 gutenberg_type: Text
 identifiers:
